@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/assignment-one/clientlibs"/>
+    <filter root="/apps/assignment-one/components"/>
+    <filter root="/apps/assignment-one/i18n"/>
+</workspaceFilter>
